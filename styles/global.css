@@ -94,6 +94,12 @@ img {
     display: inline-block;
  }
 
+ .icons {
+    width: 2rem;
+    height: 2rem;
+    display: inline-block;
+ }
+
 @media (width >= 80em) {
   :root {
     --fs-lg: 2rem;
