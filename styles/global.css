@@ -47,6 +47,8 @@ html {
   color: var(--text-color-primary);
 
   overflow-x: hidden;
+
+  scroll-behavior: smooth;
 }
 
 body {
@@ -101,6 +103,11 @@ img {
     width: 2rem;
     height: 2rem;
     display: inline-block;
+ }
+
+ .logo-footer {
+  width: 5.25rem;
+  height: 2rem;
  }
 
 @media (width >= 80em) {
